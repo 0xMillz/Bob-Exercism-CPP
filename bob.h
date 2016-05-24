@@ -9,7 +9,6 @@ public:
 
     bool allCaps = true;
     bool hasChars = false;
-    bool exclamation = false;
     bool allSpaces = true;
 
     for (int i = 0; i < input.length(); i++) {
